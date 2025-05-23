@@ -1,4 +1,4 @@
-# EX NO: Cloud-account-set-up-and-services
+# EX NO: 1 Cloud-account-set-up-and-services
 
 ## Name : Sivaramakrishnan B
 ## Reg no: 212222110044
